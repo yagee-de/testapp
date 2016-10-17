@@ -19,8 +19,8 @@
     </dependency>
   </dependencies>
   <scm>
-    <connection>https://github.com/yagee-de/testapp.git</connection>
-    <developerConnection>https://github.com/yagee-de/testapp.git</developerConnection>
+    <connection>scm:git:https://github.com/yagee-de/testapp.git</connection>
+    <developerConnection>scm:git:https://github.com/yagee-de/testapp.git</developerConnection>
     <url>https://github.com/yagee-de/testapp</url>
   </scm>
   <inceptionYear>2016</inceptionYear>
